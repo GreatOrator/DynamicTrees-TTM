@@ -1,0 +1,4 @@
+{
+	"iron": { "color":"@exampletrees:rusty", "leaves":"minecraft:leaves variant=oak" },
+	"coal": { "color":"#D1C451", "leaves":"minecraft:leaves2 variant=acacia" }
+}

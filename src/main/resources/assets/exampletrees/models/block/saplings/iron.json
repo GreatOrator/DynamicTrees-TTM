@@ -1,0 +1,8 @@
+{
+	"parent": "dynamictrees:block/sapling",
+	"textures": {
+	    "particle": "blocks/leaves_oak",
+		"log": "exampletrees:blocks/log_iron",
+		"leaves": "blocks/leaves_oak"
+	}
+}
